@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <p align="center">:computer: <b>Student Full Stack </b> :computer:</p>
 <hr>
 <p align="center">
-:zap:Pupil at <a href="https://github.com/nucba">Nucba</a>:zap: - :zap:Pupil at <a href="https://github.com/guayerd">Guayerd</a>:zap:
-</p>
+:zap:Pupil at <a href="https://github.com/nucba">Nucba</a>
 <hr/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexiszarahttps&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p>
 
