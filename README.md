@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <p align="center">:computer: <b>Student Full Stack </b> :computer:</p>
 <hr>
 <p align="center">
-:zap:Pupil at <a href="https://github.com/Cristianaaguirre">Nucba</a>
+:zap:Pupil at <a href="https://nucba.com.ar/">Nucba</a>
 <hr/>
