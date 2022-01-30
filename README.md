@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">:computer: <b>Student Full Stack </b> :computer:</p>
+<p align="center">:computer: <b>Full Stack Student </b> :computer:</p>
 <hr>
 <p align="center">
 :zap:Pupil at <a href="https://nucba.com.ar/" target="_blank">Nucba</a>
