@@ -4,7 +4,6 @@
 <h4> Vivo en Salta, norte de Argentina. Durante mi niñez pasaba largas horas frente al computador tocando y jugando con todo lo que pudiera. Al crecer me dediqué al estudio del español y la literatura, pero decidí darle un cambio a mi vida y comencé a estudiar programación. Quiero ser parte del mundo y de los avances tecnológicos, siempre hay tiempo para volver. </h4>
 <hr>
 
-[![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https://jpromano.net)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cristian-aguirre-822858220/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/aguirre_cristian101/?hl=es-la)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/cristianaguirre.dev)
