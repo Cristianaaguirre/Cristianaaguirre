@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cristian-aguirre-822858220/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/aguirre_cristian101/?hl=es-la)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/cristianaguirre.dev)
-<a href="https://wakatime.com/badge/user/d3f07f69-eabd-42f0-80b2-9950f8e74bd3/project/2cca3da6-1a35-492a-a898-bddecb3b9a07"><img src="https://wakatime.com/badge/user/d3f07f69-eabd-42f0-80b2-9950f8e74bd3/project/2cca3da6-1a35-492a-a898-bddecb3b9a07.svg" alt="wakatime"></a>
+
 
 <hr>
 
