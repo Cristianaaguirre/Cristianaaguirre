@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cristian-aguirre-822858220/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/aguirre_cristian101/?hl=es-la)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/cristianaguirre.dev)
-<a href="https://wakatime.com/@d3f07f69-eabd-42f0-80b2-9950f8e74bd3"><img src="https://wakatime.com/badge/user/d3f07f69-eabd-42f0-80b2-9950f8e74bd3.svg" alt="Total time coded since Mar 14 2022" /></a>
+<a href="https://wakatime.com/badge/github/Cristianaaguirre/freeCodeCamp"><img src="https://wakatime.com/badge/github/Cristianaaguirre/freeCodeCamp.svg" alt="wakatime"></a>
 
 
 <hr>
