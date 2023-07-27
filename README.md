@@ -18,8 +18,8 @@
 
 <hr>
 
-<h2 align="center"> GitHub Overview </h2>
-<h2 align="center">## &#x1f4c8; Stats </h2>
+<h2 align="center">&#x1f4c8;Stats </h2>
+
 <table align="center" width=100%>
   <tr>
     <td align="center" style="padding=0;width=50%;">
