@@ -1,4 +1,4 @@
-# :wave: Hello <b>developers</b>, I am <b>Cristian Aguirre</b>
+<p align="center"># :wave: Hello <b>developers</b>, I am <b>Cristian Aguirre</b></p>
 
 <p align="center">Java Programmer | Web Developer | Data Engineer Traning | "Book lover" | Emprendedor </p>
 
