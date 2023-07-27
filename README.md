@@ -12,36 +12,9 @@
 
 <h3>💼 Languages and Tools:</h3>
 
-<p aling="center>
+<p aling="center">
 <img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/html.svg" alt="HTML" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/css.png" alt="CSS" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/js.png" alt="JavaScript" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/java.png" alt="Java" width="50" height="50"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/spring.svg" alt="Spring" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/python.png" alt="Python" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/mysql.svg" alt="MySQL" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/postgres.png" alt="Postgres" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/git.png" alt="Git" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/vscode.png" alt="VS" width="48" height="48"/>
 <p/>
-
-- 💻 &#160; 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-- 🌐 &#160; 
- ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
- ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- 
-- 🛢 &#160; 
- ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
- ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- 🔧 &#160;
- ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
- ![](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-- 📚
- ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
- ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-- 👩‍💻
- ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
- ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
- ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <hr>
 
