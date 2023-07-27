@@ -10,9 +10,9 @@
 
 <hr>
 
-<h3 aling="center">💼 Languages and Tools:</h3>
+<h3 align="center">💼 Languages and Tools:</h3>
 
-<p aling="center">
+<p align="center">
 <img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/html.svg" alt="HTML" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/css.png" alt="CSS" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/js.png" alt="JavaScript" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/java.png" alt="Java" width="50" height="50"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/spring.svg" alt="Spring" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/python.png" alt="Python" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/mysql.svg" alt="MySQL" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/postgres.png" alt="Postgres" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/git.png" alt="Git" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/vscode.png" alt="VS" width="48" height="48"/>
 </p>
 
