@@ -18,14 +18,14 @@
 
 <br>
 
-<h2 align="center" id = "work-experience">🚀 My Professional Experience </h2> 
+<h2 align="center" id = "work-experience">🚀 Mi Experiencia Profesional </h2> 
 <div align="center">
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b> 💼 Designation </b></td> 
-      <td><b> 🏢Organization </b></td> 
-      <td><b> ⏰Timeline  </b></td> 
+      <td><b> 💼 Puesto </b></td> 
+      <td><b> 🏢 Organización </b></td> 
+      <td><b> ⏰ Tiempo  </b></td> 
       </tr>
   </thead>
   <tbody> 
@@ -50,7 +50,7 @@
 
 <br><br>
 
-<h3 align="center"> 💼 Languages and Tools </h3>
+<h3 align="center"> 💼 Algunos Lenguajes y Herramientas </h3>
 
 #
 
@@ -60,7 +60,7 @@
 
 <br>
 
-<h2 align="center">&#x1f4c8;Stats </h2>
+<h2 align="center">&#x1f4c8;Estadísticas </h2>
 
 <table align="center" width=100%>
   <tr>
