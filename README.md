@@ -18,6 +18,38 @@
 
 <hr>
 
+<h2 align="center" id = "work-experience">🚀 My Professional Experience </h2> 
+<div align="center">
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💼 Designation </b></td> 
+      <td><b> 🏢Organization </b></td> 
+      <td><b> ⏰Timeline  </b></td> 
+      </tr>
+  </thead>
+  <tbody> 
+   <tr>
+      <td> <b> Desarrollador Back-end </b> </td>
+      <td> <b> No Country </b> </td>
+      <td> <b> Septiembre 2022 - Octubre 202 </b> </td>
+   </tr>
+    <tr>
+      <td> <b> Java Developer </b> </td>
+      <td> <b> Snakewood </b> </td>
+      <td> <b> Diciembre 2021 - Agosto 2022 </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Java Developer </b> </td>
+      <td> <b> Alkemy </b> </td>
+      <td> <b> Junio 2022 - Agosto 2022 </b> </td>
+   </tr>
+   </tbody>	 
+</table>
+</div>
+
+<hr>
+
 <h2 align="center">&#x1f4c8;Stats </h2>
 
 <table align="center" width=100%>
