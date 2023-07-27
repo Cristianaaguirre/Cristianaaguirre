@@ -7,25 +7,16 @@
 # 💫Sobre mi :
 - :seedling: Actualmente me estoy formando como Data Engineer.
 - :handshake: Sin problema alguno, me encanta colabrar en proyectos y seguir aprendiendo.
-- :v: Estoy dispuesto a escuchar cualquier oferta
-- :zap: Con mucho esfuerzo y sacrificio, abrí una libreria de la cual estoy muy orgulloso
+- :v: Estoy dispuesto a escuchar nuevas ofertas.
+- :zap: Con mucho esfuerzo y sacrificio, abrí una libreria de la cual estoy muy orgulloso.
 
+# Mis Redes
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/cristian-aguirre-822858220/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/aguirre_cristian101/?hl=es-la)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/cristianaguirre.dev)
-<a href="https://wakatime.com/@d3f07f69-eabd-42f0-80b2-9950f8e74bd3"><img src="https://wakatime.com/badge/user/d3f07f69-eabd-42f0-80b2-9950f8e74bd3.svg" alt="Total time coded since Mar 14 2022" /></a>
 
-
-<hr>
-
-<h3 align="center">💼 Languages and Tools:</h3>
-
-<p align="center">
-<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/html.svg" alt="HTML" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/css.png" alt="CSS" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/js.png" alt="JavaScript" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/java.png" alt="Java" width="50" height="50"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/spring.svg" alt="Spring" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/python.png" alt="Python" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/mysql.svg" alt="MySQL" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/postgres.png" alt="Postgres" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/git.png" alt="Git" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/vscode.png" alt="VS" width="48" height="48"/>
-</p>
-
-<hr>
+<br>
 
 <h2 align="center" id = "work-experience">🚀 My Professional Experience </h2> 
 <div align="center">
@@ -41,7 +32,7 @@
    <tr>
       <td> <b> Desarrollador Back-end </b> </td>
       <td> <b> No Country </b> </td>
-      <td> <b> Septiembre 2022 - Octubre 202 </b> </td>
+      <td> <b> Septiembre 2022 - Octubre 2022 </b> </td>
    </tr>
     <tr>
       <td> <b> Java Developer </b> </td>
@@ -57,7 +48,17 @@
 </table>
 </div>
 
-<hr>
+<br><br>
+
+<h3 align="center"> 💼 Languages and Tools </h3>
+
+#
+
+<p align="center">
+<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/html.svg" alt="HTML" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/css.png" alt="CSS" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/js.png" alt="JavaScript" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/java.png" alt="Java" width="50" height="50"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/spring.svg" alt="Spring" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/python.png" alt="Python" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/mysql.svg" alt="MySQL" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/postgres.png" alt="Postgres" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/git.png" alt="Git" width="48" height="48"/>&nbsp;<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/vscode.png" alt="VS" width="48" height="48"/>
+</p>
+
+<br>
 
 <h2 align="center">&#x1f4c8;Stats </h2>
 
