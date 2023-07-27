@@ -12,6 +12,8 @@
 
 <h3>💼 Languages and Tools:</h3>
 
+<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/java.png" alt="Java" width="48" height="48"/>&nbsp<img src="https://github.com/Cristianaaguirre/Cristianaaguirre/blob/main/assets/java.png" alt="Java" width="48" height="48"/>
+
 - 💻 &#160; 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
