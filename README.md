@@ -29,15 +29,15 @@
       </tr>
   </thead>
   <tbody> 
+    <tr>
+      <td> <b> Java Developer </b> </td>
+      <td> <b> Profesional Independiente </b> </td>
+      <td> <b> Enero 2022 - actualidad </b> </td>
+   </tr>
    <tr>
       <td> <b> Desarrollador Back-end </b> </td>
       <td> <b> No Country </b> </td>
       <td> <b> Septiembre 2022 - Octubre 2022 </b> </td>
-   </tr>
-    <tr>
-      <td> <b> Java Developer </b> </td>
-      <td> <b> Snakewood </b> </td>
-      <td> <b> Diciembre 2021 - Agosto 2022 </b> </td>
    </tr>
    <tr>
       <td> <b> Java Developer </b> </td>
