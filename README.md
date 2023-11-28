@@ -1,8 +1,6 @@
 <h1 align="center"> Hello developers, I am Cristian Aguirre 👋 </h1>
 
-<p align="center">Java Programmer | Web Developer | Data Engineer Traning | "Book lover" | Emprendedor </p>
-
-<h4> Vivo en Salta, norte de Argentina. Durante mi niñez pasaba largas horas frente al computador tocando y jugando con todo lo que pudiera. Al crecer me dediqué al estudio del español y la literatura, pero decidí darle un cambio a mi vida y comencé a estudiar programación. Quiero ser parte del mundo y de los avances tecnológicos, siempre hay tiempo para volver. </h4>
+<p align="center">Java Programmer | Web Developer | Data Engineer | "Book lover" | Emprendedor </p>
 
 # 💫Sobre mi :
 - :seedling: Actualmente me estoy formando como Data Engineer.
