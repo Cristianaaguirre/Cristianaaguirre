@@ -3,7 +3,7 @@
 <p align="center">Java Programmer | Web Developer | Data Engineer | "Book lover" | Emprendedor </p>
 
 # 💫Sobre mi :
-- :seedling: Actualmente me estoy formando como Data Engineer.
+- :seedling: Formacion como Java Developer y Data Engineer.
 - :handshake: Sin problema alguno, me encanta colabrar en proyectos y seguir aprendiendo.
 - :v: Estoy dispuesto a escuchar nuevas ofertas.
 - :zap: Con mucho esfuerzo y sacrificio, abrí una libreria de la cual estoy muy orgulloso.
