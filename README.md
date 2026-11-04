@@ -28,14 +28,14 @@
   </thead>
   <tbody> 
     <tr>
-      <td> <b> Java Developer </b> </td>
-      <td> <b> Profesional Independiente </b> </td>
-      <td> <b> Enero 2022 - actualidad </b> </td>
+      <td> <b> Administrador de Sitemas </b> </td>
+      <td> <b> Clinica Medica Privada </b> </td>
+      <td> <b> Enero 2024 - Diciembre 2025 </b> </td>
    </tr>
    <tr>
       <td> <b> Desarrollador Back-end </b> </td>
       <td> <b> No Country </b> </td>
-      <td> <b> Septiembre 2022 - Octubre 2022 </b> </td>
+      <td> <b> Septiembre 2022 - Junio 2023 </b> </td>
    </tr>
    <tr>
       <td> <b> Java Developer </b> </td>
@@ -57,16 +57,3 @@
 </p>
 
 <br>
-
-<h2 align="center">&#x1f4c8;Estadísticas </h2>
-
-<table align="center" width=100%>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristianaaguirre&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Cristianaaguirre&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-  </tr>
-</table>
